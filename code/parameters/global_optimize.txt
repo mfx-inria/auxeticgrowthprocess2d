@@ -1,0 +1,6 @@
+plot_starshaped_pdf=true
+plot_porous_material_sites_png=true
+plot_sites_png=false
+lock_max_radial_span=true
+opt_max_eval=150
+opt_n_random_starts=50

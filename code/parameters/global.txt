@@ -1,0 +1,10 @@
+interpolation_type=PolarCubic
+symmetry_type=RotationalSymmetry
+young_modulus_solid=1.0
+poisson_ratio=0.3
+ignore_void=1
+random_seed=42
+rsa_max_dist_rel_pixel=80
+num_sites_per_pixel=0.00010882219233908344
+plot_starshaped_ppm=false
+save_results_txt=true

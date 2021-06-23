@@ -1,0 +1,7 @@
+name=../results/figure_overview_euclidean/figure_overview_euclidean
+radial_spans=1.0
+max_growth_length=10.0
+plot_starshaped_pdf=false
+plot_sites_pdf=false
+save_porous_material_ppm=false
+num_growth_plots=10

@@ -1,0 +1,7 @@
+name=../results/figure_overview/figure_overview
+radial_spans=0.2,0.2,0.2,1.0
+max_growth_length_radial_spans=5,20,5,40
+plot_starshaped_pdf=true
+plot_sites_pdf=true
+save_porous_material_ppm=false
+num_growth_plots=10

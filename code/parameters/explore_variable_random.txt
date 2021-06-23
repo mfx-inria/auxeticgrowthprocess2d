@@ -1,0 +1,2 @@
+name=../results/explore_variable_random/
+point_process=Random

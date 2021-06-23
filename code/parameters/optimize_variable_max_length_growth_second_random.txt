@@ -1,0 +1,3 @@
+name=../results/random/optimize_variable_max_length_growth_second/optimize_current
+point_process=Random
+max_length_growth_radial_span=40.0

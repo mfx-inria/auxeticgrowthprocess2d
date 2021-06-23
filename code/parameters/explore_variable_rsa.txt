@@ -1,0 +1,2 @@
+name=../results/explore_variable_rsa/
+point_process=RSA

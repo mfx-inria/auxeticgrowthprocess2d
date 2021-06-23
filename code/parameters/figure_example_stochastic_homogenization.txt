@@ -1,0 +1,8 @@
+name=../results/figure_example_stochastic_homogenization/stohom
+radial_spans=0.2,0.2,0.2,1.0
+max_growth_length_radial_spans=5,20,5,40
+plot_starshaped_pdf=false
+plot_sites_pdf=false
+save_porous_material_ppm=true
+plot_sites_png=false
+num_samples_montecarlo=120

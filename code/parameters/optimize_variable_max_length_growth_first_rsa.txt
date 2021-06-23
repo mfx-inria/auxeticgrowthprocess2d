@@ -1,0 +1,3 @@
+name=../results/rsa/optimize_variable_max_length_growth_first/optimize_current
+point_process=RSA
+max_length_growth_radial_span=15.0

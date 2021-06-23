@@ -1,0 +1,16 @@
+symmetry_type=NoSymmetry
+point_process=Random
+name=../results/figure_function_interpolation/figure_function_interpolation_only_points
+symmetry_degree=3
+interpolation_type=PolarCubic
+image_size=2
+radial_spans=1.0,0.2,0.5,0.7,0.1
+num_sites_per_pixel=1
+plot_starshaped_ppm=false
+plot_starshaped_pdf=true
+plot_sites_pdf=false
+save_porous_material_ppm=false
+save_results_txt=false
+plot_porous_material_sites_png=false
+plot_interpolation_points=true
+plot_interpolated_starshaped_set=false

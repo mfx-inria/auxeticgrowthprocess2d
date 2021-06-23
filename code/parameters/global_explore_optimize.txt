@@ -1,0 +1,6 @@
+symmetry_degree=3
+num_radial_spans=8
+num_samples_montecarlo=60
+min_radial_span=0.05
+max_radial_span=1.0
+min_length_growth_radial_span=4.0

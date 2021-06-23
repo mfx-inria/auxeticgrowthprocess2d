@@ -1,0 +1,5 @@
+num_samples_radial_spans=300
+max_length_growth_radial_span=40.0
+image_size_ini=300
+image_size_end=1200
+num_samples_image_size=4

@@ -1,0 +1,3 @@
+name=../results/random/optimize_fixed/optimize_current
+point_process=Random
+max_growth_length=4.0
